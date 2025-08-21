@@ -1,0 +1,465 @@
+.controller.ds4 {
+  background-image: url("https://i.imgur.com/T0oVr4b.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  z-index: 1;
+  width: 807px;
+  height: 599px;
+}
+
+.ds4 .trigger.left {
+  width: 99px;
+  height: 91px;
+}
+
+.ds4 .trigger.left.pressed {
+  background-image: url("https://i.imgur.com/j8IrXK1.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  z-index: 1;
+  width: 99px;
+  height: 91px;
+}
+
+.ds4 .trigger.right {
+  width: 99px;
+  height: 91px;
+}
+
+.ds4 .trigger.right.pressed {
+  background-image: url("https://i.imgur.com/ZGuKvvk.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  z-index: 1;
+  width: 99px;
+  height: 91px;
+}
+
+.ds4 .bumper.left {
+  width: 99px;
+  height: 23px;
+}
+
+.ds4 .bumper.left.pressed {
+  background-image: url("https://i.imgur.com/4TCmFfT.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  z-index: 1;
+  width: 99px;
+  height: 23px;
+}
+
+.ds4 .bumper.right {
+  width: 99px;
+  height: 23px;
+}
+
+.ds4 .bumper.right.pressed {
+  background-image: url("https://i.imgur.com/4TCmFfT.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  z-index: 1;
+  width: 99px;
+  height: 23px;
+}
+
+.ds4 .touchpad {
+  position: absolute;
+  position: absolute;
+  width: 258px;
+  height: 149px;
+  left: 273px;
+  top: 122px;
+}
+
+.ds4 .touchpad.pressed {
+  position: absolute;
+  position: absolute;
+  background-image: url("https://i.imgur.com/e0YUbVc.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  z-index: 1;
+  width: 258px;
+  height: 149px;
+  left: 273px;
+  top: 122px;
+}
+
+.ds4 .back {
+  position: absolute;
+  position: absolute;
+  background-image: url("https://i.imgur.com/Wx5oflz.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  z-index: 1;
+  width: 29px;
+  height: 47px;
+  left: -1px;
+  top: 6px;
+}
+
+.ds4 .back.pressed {
+  position: absolute;
+  position: absolute;
+  background-image: url("https://i.imgur.com/nq2e4Gx.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  z-index: 1;
+  width: 29px;
+  height: 47px;
+  left: -1px;
+  top: 6px;
+}
+
+.ds4 .start {
+  position: absolute;
+  position: absolute;
+  background-image: url("https://i.imgur.com/Wx5oflz.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  z-index: 1;
+  width: 29px;
+  height: 47px;
+  left: 322px;
+  top: 6px;
+}
+
+.ds4 .start.pressed {
+  position: absolute;
+  position: absolute;
+  background-image: url("https://i.imgur.com/nq2e4Gx.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  z-index: 1;
+  width: 29px;
+  height: 47px;
+  left: 322px;
+  top: 6px;
+}
+
+.ds4 .a {
+  background-image: url("https://i.imgur.com/p6wQEBL.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  z-index: 1;
+  width: 55px;
+  height: 55px;
+}
+
+.ds4 .a.pressed {
+  background-image: url("https://i.imgur.com/gxpO199.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  z-index: 1;
+  width: 55px;
+  height: 55px;
+}
+
+.ds4 .b {
+  background-image: url("https://i.imgur.com/oMEVZ6i.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  z-index: 1;
+  width: 55px;
+  height: 55px;
+}
+
+.ds4 .b.pressed {
+  background-image: url("https://i.imgur.com/ohKMo2K.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  z-index: 1;
+  width: 55px;
+  height: 55px;
+}
+
+.ds4 .x {
+  background-image: url("https://i.imgur.com/I0hOofD.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  z-index: 1;
+  width: 55px;
+  height: 55px;
+}
+
+.ds4 .x.pressed {
+  background-image: url("https://i.imgur.com/3usCkbD.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  z-index: 1;
+  width: 55px;
+  height: 55px;
+}
+
+.ds4 .y {
+  background-image: url("https://i.imgur.com/hbqAjBu.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  z-index: 1;
+  width: 55px;
+  height: 55px;
+}
+
+.ds4 .y.pressed {
+  background-image: url("https://i.imgur.com/DMGKL6n.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  z-index: 1;
+  width: 55px;
+  height: 55px;
+}
+
+.ds4 .stick.left {
+  background-image: url("https://i.imgur.com/x98xIRb.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  z-index: 1;
+  width: 94px;
+  height: 94px;
+}
+
+.ds4 .stick.left.pressed {
+  background-image: url("https://i.imgur.com/4eSyt0I.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  z-index: 1;
+  width: 94px;
+  height: 94px;
+}
+
+.ds4 .stick.right {
+  background-image: url("https://i.imgur.com/x98xIRb.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  z-index: 1;
+  width: 94px;
+  height: 94px;
+}
+
+.ds4 .stick.right.pressed {
+  background-image: url("https://i.imgur.com/2fAT6c4.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  z-index: 1;
+  width: 94px;
+  height: 94px;
+}
+
+.ds4 .face.up {
+  background-image: url("https://i.imgur.com/MfQ36E8.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  z-index: 1;
+  width: 36px;
+  height: 51px;
+}
+
+.ds4 .face.up.pressed {
+  background-image: url("https://i.imgur.com/HftUAUG.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  z-index: 1;
+  width: 36px;
+  height: 51px;
+}
+
+.ds4 .face.down {
+  background-image: url("https://i.imgur.com/g66fBix.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  z-index: 1;
+  width: 36px;
+  height: 51px;
+}
+
+.ds4 .face.down.pressed {
+  background-image: url("https://i.imgur.com/Z2sutmF.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  z-index: 1;
+  width: 36px;
+  height: 51px;
+}
+
+.ds4 .face.left {
+  background-image: url("https://i.imgur.com/1RXe2Cw.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  z-index: 1;
+  width: 51px;
+  height: 36px;
+}
+
+.ds4 .face.left.pressed {
+  background-image: url("https://i.imgur.com/I1PMxRE.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  z-index: 1;
+  width: 51px;
+  height: 36px;
+}
+
+.ds4 .face.right {
+  background-image: url("https://i.imgur.com/0I9Vqlv.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  z-index: 1;
+  width: 52px;
+  height: 36px;
+}
+
+.ds4 .face.right.pressed {
+  background-image: url("https://i.imgur.com/3jwWeRF.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  z-index: 1;
+  width: 52px;
+  height: 36px;
+}
+
+.ds4 .meta {
+  position: absolute;
+  position: absolute;
+  width: 44px;
+  height: 44px;
+  left: 381px;
+  top: 340px;
+}
+
+.ds4 .meta.pressed {
+  position: absolute;
+  position: absolute;
+  background-image: url("https://i.imgur.com/8mfhytq.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  z-index: 1;
+  width: 44px;
+  height: 44px;
+  left: 381px;
+  top: 340px;
+}
+
